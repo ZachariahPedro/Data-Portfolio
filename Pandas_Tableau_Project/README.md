@@ -34,6 +34,11 @@ stakeholder-ready visual storytelling.
 
 ## How To Run
 
+  See previews and screenshots on Github
+
+  or
+
+  Download the folder Pandas_Tableau_Project
 
   [Download Online Retail II from Kaggle](https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset)
 
@@ -71,3 +76,4 @@ stakeholder-ready visual storytelling.
 ### Open the Tableau dashboard
 
    Open with Tableau `Online_Retail_Dashboard.twbx` 
+
