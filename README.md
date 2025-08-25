@@ -1,4 +1,7 @@
 # Zachariah Pedro Data Analysis Portfolio
+This portfolio contains projects demonstatrating data analysis profeciency with a number of tools. Each project has a README which explains the project, these are included below as well. 
+
+
 ## Contents
 - Python_Tableau_Project
   - `Online_Retail_Analysis.ipynb`
