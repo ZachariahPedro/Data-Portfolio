@@ -30,6 +30,7 @@ This project investigates late shipment complaints using the Northwind sample da
 ## Required 
 #### - SQLite3
 #### - VSCode (Recommended)
+#### - [Northwind Database](https://github.com/jpwhite3/northwind-SQLite3)
 
 ## How To Run
 
@@ -41,3 +42,4 @@ This project investigates late shipment complaints using the Northwind sample da
 
 
   Run `Northwind_Shipments.sql` with SQLite3 in your preferred medium
+
