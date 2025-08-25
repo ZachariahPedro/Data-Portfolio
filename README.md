@@ -116,14 +116,17 @@ This project investigates late shipment complaints using the Northwind sample da
 
 ### Includes:
 - `Northwind_Shipments.sql`
-- `northwind.db`
-- Screenshots
+- Screenshots Folder
 	- `customer_shipper_late_summary.png`
 	- `shipper_late_bytime.png`
+- Excel Folder
+	- `customer_shipper_late_summary.xlsx`	
+	- `shipper_late_bytime.xlsx`
 
 ## Required 
 #### - SQLite3
 #### - VSCode (Recommended)
+#### - [Northwind Database](https://github.com/jpwhite3/northwind-SQLite3)
 
 ## How To Run
 
@@ -133,5 +136,8 @@ This project investigates late shipment complaints using the Northwind sample da
 
   Download the folder SQL_Project
 
+
   Run `Northwind_Shipments.sql` with SQLite3 in your preferred medium
+
+
 
