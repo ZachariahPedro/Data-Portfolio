@@ -31,9 +31,7 @@ Now we'll run some queries we can export for further analysis later.
 
 
 First we can check out effects related to customers and shippers.
-A spreadsheet form of the table is also included in the project folder
-A screenshot of the resultant table is located in the screenshots folder labelled customer_shipper_late_summary
-The resultant
+A spreadsheet form of the table is included in the Excel folder and a screenshot of the resultant table is located in the screenshots folder labelled customer_shipper_late_summary
 */
 
 SELECT
@@ -62,8 +60,7 @@ ORDER BY late_rate desc
 
  
 /* Then we'll go ahead and check our shippers for any seasonal effect.
-A spreadsheet form of the table is also included in the project folder
-A screenshot of the resultant table is located in the screenshots folder labelled shipper_late_bytime
+A spreadsheet form of the table is included in the Excel folder and a screenshot of the resultant table is located in the screenshots folder labelled shipper_late_bytime
 */
 
 SELECT
@@ -92,3 +89,4 @@ ORDER BY Date desc
 
 
 --We can take these tables for further analysis via your preferred means, I'll be using excel. 
+
