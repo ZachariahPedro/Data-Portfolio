@@ -3,12 +3,20 @@ This portfolio contains projects demonstatrating data analysis profeciency with 
 
 
 ## Contents
-- Python_Tableau_Project
-  - `Online_Retail_Analysis.ipynb`
-  - `Online_Retail_Dashboard.twbx`
-  - Screenshots
+- [Python & Tableau Project](https://github.com/ZachariahPedro/Data-Portfolio/tree/main/Pandas_Tableau_Project)
+  - [Screenshots](https://github.com/ZachariahPedro/Data-Portfolio/tree/main/Pandas_Tableau_Project/Dashboard%20Screenshots)
+  - Tableau Dashboard
+  - Python/Pandas EDA
+- [SQL & Excel Project](https://github.com/ZachariahPedro/Data-Portfolio/tree/main/SQL_Project)
+  - [Screenshots](https://github.com/ZachariahPedro/Data-Portfolio/tree/main/SQL_Project/Screenshots)
+  - SQL Queries
+  - Excel Sheets
+
+
+	  
 ---
 # Online Retail II — Python + Tableau
+[Screenshots](https://github.com/ZachariahPedro/Data-Portfolio/tree/main/Pandas_Tableau_Project/Dashboard%20Screenshots)
 
 This project cleans and analyzes the Online Retail II dataset in Python and presents insights in 
 a Tableau dashboard. It’s designed to show practical data-wrangling, exploratory analysis, and 
@@ -86,6 +94,7 @@ stakeholder-ready visual storytelling.
 
 
 # Northwind Database — SQL
+[Screenshots](https://github.com/ZachariahPedro/Data-Portfolio/tree/main/SQL_Project/Screenshots)
 
 This project investigates late shipment complaints using the Northwind sample database. The analysis focuses on identifying shipment delays, quantifying their impact on revenue and freight costs, and uncovering patterns related to customers, shippers, and seasonality.
 
